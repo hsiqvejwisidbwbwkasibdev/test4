@@ -1586,3 +1586,4 @@ function Lib:Window(text, accent)
     end
     return WindowTabs
 end
+return Library
